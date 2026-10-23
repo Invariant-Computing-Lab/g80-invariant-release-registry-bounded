@@ -1,0 +1,12 @@
+{
+  "records": [
+    {
+      "code": "G01",
+      "status": "STAGED_PRIVATE"
+    },
+    {
+      "code": "M01",
+      "status": "HOLD_RIGHTS"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "origin": "NEWLY_IMPLEMENTED_FROM_PLAN_DESCRIPTION_NOT_RECOVERED_UPSTREAM",
+  "owner_rights_confirmed": false,
+  "plan_artifact_paths": [],
+  "prototype_operation": "release_registry",
+  "public_release_approved": false,
+  "schema": "invariant.v7.new_candidate.v1",
+  "source_claim_gate": "Bağlandı≠doğrulandı; claim gate'in yanlış olumlu/olumsuz kontrolü ve dış kullanım benchmark'ı gerekir.",
+  "source_sha256_verified_by_this_builder": false,
+  "synthetic_fixture_only": true,
+  "target_code": "G80",
+  "test_coverage": "local_synthetic_unit_tests_only",
+  "title": "invariant-release-registry"
+}

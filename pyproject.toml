@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=65"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "invariant-v7-g80"
+version = "0.1.1"
+description = "Bounded offline G80 validation prototype; not recovered upstream software"
+readme = "README.md"
+requires-python = ">=3.10"
+
+[project.scripts]
+invariant-g80 = "invariant_v7_g80:main"
+
+[tool.setuptools]
+py-modules = ["invariant_v7_g80"]

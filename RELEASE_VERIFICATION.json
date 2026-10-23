@@ -1,0 +1,16 @@
+{
+  "schema": "invariant.software_release_verification.v1",
+  "runtime_status": "PASS",
+  "scope": "18 bounded contract tests, wheel build, clean offline co-install and CLI checks. Not the complete original research product.",
+  "checked_in": "isolated Linux container; Python 3.13.5 / Node 22.16.0 / Chromium 144 where applicable",
+  "actual_server_tested": false,
+  "actual_windows_tested": false,
+  "hosted_platform_tested": false,
+  "public_release_performed": false,
+  "public_rights_approved": false,
+  "target_codes": [
+    "G80"
+  ],
+  "source_class": "bounded_candidate",
+  "evidence_file_in_delivery_audit": "candidate_build_tests.json"
+}
