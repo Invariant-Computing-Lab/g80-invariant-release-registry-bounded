@@ -55,3 +55,7 @@ A [public Hugging Face repository index](PUBLIC_HF_REPOSITORY_INDEX.md) tracks 5
 ## Verified Zenodo DOI and community crosswalk
 
 The [DOI / community crosswalk](DOI_COMMUNITY_CROSSWALK.md) lists only accepted, publicly identifiable research records and tracks creator-role, incorrect DOI and collection-scope caveats. It does not equate a repository deposit with a peer-reviewed or patent-granted result.
+
+## Independent file-tree readiness audit
+
+The [56-repository file-tree audit](REPOSITORY_TREE_READINESS_AUDIT.md) reports visible test-like files, licence-like paths, dependency manifests and CI workflow paths without treating any of them as evidence of successful runtime or scientific validation.
