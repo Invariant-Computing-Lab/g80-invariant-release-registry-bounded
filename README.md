@@ -1,5 +1,7 @@
 # G80 — invariant-release-registry
 
+**New to Invariant Computing Lab?** Start with the [research-first orientation and evidence guide](START_HERE.md), then explore the [public software catalogue](PUBLIC_RESEARCH_CATALOG.md). The guide is editorial navigation, not a scientific verification certificate.
+
 **Programme context.** Invariant Computing Lab / provenance and release tooling. This public candidate provides bounded utilities rather than a recovered original upstream project, independently verified research outcome or unconditional software licence. Audit outputs and release approvals remain separate.
 
 **Status: PUBLICLY VISIBLE BOUNDED RESEARCH CANDIDATE / NEWLY IMPLEMENTED UTILITY.** This is NOT the original unrecovered upstream G80 repository, and is NOT a scientific validation or a public release authorization.
