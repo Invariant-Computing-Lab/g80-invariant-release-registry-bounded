@@ -15,6 +15,8 @@ Invariant Computing Lab is an independent research programme founded by Emirhan 
 
 - [Hugging Face model, dataset and Space audit index](PUBLIC_HF_REPOSITORY_INDEX.md)
 
+- [Verified Zenodo DOI / community crosswalk](DOI_COMMUNITY_CROSSWALK.md)
+
 ## Browse by programme
 
 ### AFC — structure-preserving computation (8)
