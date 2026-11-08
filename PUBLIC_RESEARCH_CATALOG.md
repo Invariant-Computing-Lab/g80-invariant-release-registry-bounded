@@ -17,6 +17,8 @@ Invariant Computing Lab is an independent research programme founded by Emirhan 
 
 - [Verified Zenodo DOI / community crosswalk](DOI_COMMUNITY_CROSSWALK.md)
 
+- [56-repository release readiness / file-tree audit](REPOSITORY_TREE_READINESS_AUDIT.md)
+
 ## Browse by programme
 
 ### AFC — structure-preserving computation (8)
