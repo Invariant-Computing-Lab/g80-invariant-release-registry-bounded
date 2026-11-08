@@ -13,6 +13,8 @@ Invariant Computing Lab is an independent research programme founded by Emirhan 
 - [Founder’s ORCID](https://orcid.org/0009-0002-5884-3660)
 - [Founder’s research portfolio](https://emirhanyildirim-cloud.github.io/)
 
+- [Hugging Face model, dataset and Space audit index](PUBLIC_HF_REPOSITORY_INDEX.md)
+
 ## Browse by programme
 
 ### AFC — structure-preserving computation (8)
