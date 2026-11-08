@@ -41,3 +41,7 @@ This engineering revision does not recover the original upstream implementation 
 18 bounded contract tests, wheel build, clean offline co-install and CLI checks. Not the complete original research product.
 
 Runtime state: `PASS`. Rights and release approval are separate. See `RELEASE_VERIFICATION.json`. No paper or conference submission is included as a new software result.
+
+## Public research catalogue
+
+This release-registry package also hosts the [programme-grouped public repository catalogue](PUBLIC_RESEARCH_CATALOG.md) for Invariant Computing Lab, covering 56 public research-software and reproducibility repositories. This index is editorial navigation, not a statement of software quality, independently validated results or redistribution rights.
