@@ -2,6 +2,12 @@
 
 **Audit date:** 8 November 2026. This page links **existing** published Zenodo records to the owner-curated research communities. The DOI is the record identifier; inclusion in a community is curation, **not** peer review, experimental validation, patent grant, clinical authorization or evidence of institutional incorporation.
 
+## Creator-role reconciliation — priority before ORCID bulk import
+
+Indexed Zenodo pages for several of the records above currently show **"Yıldırım, Emirhan (Related person)"** in the `Authors/Creators` section. This does **not** establish that the owner did not author the manuscripts, but it is an attribution metadata discrepancy that must be checked against original bylines, rights and any live edits. **Do not automatically infer author status from community membership or deposit ownership.**
+
+See the [record-by-record attribution review and DOI-safe metadata correction workflow](ZENODO_ATTRIBUTION_REVIEW.md) before further ORCID import or public authorship claims.
+
 ## Confirmed Invariant Computing Lab community membership
 
 | Public work | Zenodo DOI | Curation status |
