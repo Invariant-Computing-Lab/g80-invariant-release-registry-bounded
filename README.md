@@ -47,3 +47,7 @@ Runtime state: `PASS`. Rights and release approval are separate. See `RELEASE_VE
 ## Public research catalogue
 
 This release-registry package also hosts the [programme-grouped public repository catalogue](PUBLIC_RESEARCH_CATALOG.md) for Invariant Computing Lab, covering 56 public research-software and reproducibility repositories. This index is editorial navigation, not a statement of software quality, independently validated results or redistribution rights.
+
+## Hugging Face catalogue
+
+A [public Hugging Face repository index](PUBLIC_HF_REPOSITORY_INDEX.md) tracks 58 public model, dataset and Space cards from Invariant Computing Lab and Invariant Ventures. Two private staging entries are deliberately excluded. Hub publication and rights/clinical validation remain independent.
