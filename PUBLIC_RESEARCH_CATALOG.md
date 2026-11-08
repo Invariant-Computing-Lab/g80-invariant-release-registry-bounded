@@ -1,5 +1,7 @@
 # Invariant Computing Lab — Public Research Software Catalogue
 
+**First visit:** [Start Here — research questions, selected outputs, reproducibility and scope](START_HERE.md).
+
 **Updated:** 8 November 2026 · **Public repositories:** 56
 
 Invariant Computing Lab is an independent research programme founded by Emirhan Yıldırım. This catalogue indexes public source, computational studies and reproducibility artefacts associated with the Lab, grouped by research programme or technical role. It does not imply that all repositories represent independent studies, tested releases, peer-reviewed publications, licensed open-source products, clinical systems or validated physical models.
